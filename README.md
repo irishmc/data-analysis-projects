@@ -62,3 +62,11 @@ Key findings from the analysis:
 
 The Excel dashboard was built first to visualise the data interactively, then the same dataset 
 was imported into BigQuery to explore and validate insights using SQL queries.
+
+---
+
+## Online Certifications
+
+Intro to SQL - Kaggle
+
+![SQL](kaggle-cert.jpg)
